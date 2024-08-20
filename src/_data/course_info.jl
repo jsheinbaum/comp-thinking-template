@@ -1,13 +1,13 @@
 Dict(
-    "course_name" => "Name of your course",
-    "course_subtitle" => "a short catchy phrase about your course",
-    "code" => "code of your course",
-    "semester" => "Fall 20XX",
+    "course_name" => "Adventures in Physical Oceanography",
+    "course_subtitle" => "Theory, Data and More... ",
+    "code" => "DOF-III",
+    "semester" => "Winter 2024-2025",
     "authors" => [
-        "First author name" => "first author homepage link",
-        "Second author name" => "second author homepage link"
+        "Julio Sheinbaum" => "https://github.com/jsheinbaum",
+        "XXXXXXX" => "https://github.com/jsheinbaum"
     ],
-    "institution" => "Your university (or similar) name",
-    "institution_logo" => "name of your institution logo file, e.g. `logo.svg`. Place this under `assets`",
-    "repo" => "link to the repository of the source code"
+    "institution" => "CICESE",
+    "institution_logo" => "cicese.png",
+    "repo" => "https://github.com/jsheinbaum/comp-thinking-template"
 )
