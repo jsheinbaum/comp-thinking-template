@@ -1,11 +1,11 @@
 Dict(
-    "course_name" => "Adventures in Physical Oceanography",
-    "course_subtitle" => "Theory, Data and More... ",
+    "course_name" => "Aventuras en  Oceanografía Física",
+    "course_subtitle" => "Tería, Datos. Modelos y Más... ",
     "code" => "DOF-III",
-    "semester" => "Winter 2024-2025",
+    "semester" => "Invierno 2024-2025",
     "authors" => [
         "Julio Sheinbaum" => "https://github.com/jsheinbaum",
-        "XXXXXXX" => "https://github.com/jsheinbaum"
+        "Oceanografía Física CICESE" => "https://github.com/jsheinbaum"
     ],
     "institution" => "CICESE",
     "institution_logo" => "cicese.png",
